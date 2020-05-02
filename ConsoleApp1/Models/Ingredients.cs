@@ -1,6 +1,7 @@
 using System.ComponentModel.DataAnnotations;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
-namespace DAL.Models
+namespace ConsoleApp1.Models
 {
     public class Ingredients:IBase
     {

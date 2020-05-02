@@ -1,0 +1,9 @@
+/home/kot/RiderProjects/CookBoock/DAL/bin/Debug/netcoreapp3.1/DAL.deps.json
+/home/kot/RiderProjects/CookBoock/DAL/bin/Debug/netcoreapp3.1/DAL.dll
+/home/kot/RiderProjects/CookBoock/DAL/bin/Debug/netcoreapp3.1/DAL.pdb
+/home/kot/RiderProjects/CookBoock/DAL/obj/Debug/netcoreapp3.1/DAL.csprojAssemblyReference.cache
+/home/kot/RiderProjects/CookBoock/DAL/obj/Debug/netcoreapp3.1/DAL.csproj.CoreCompileInputs.cache
+/home/kot/RiderProjects/CookBoock/DAL/obj/Debug/netcoreapp3.1/DAL.AssemblyInfoInputs.cache
+/home/kot/RiderProjects/CookBoock/DAL/obj/Debug/netcoreapp3.1/DAL.AssemblyInfo.cs
+/home/kot/RiderProjects/CookBoock/DAL/obj/Debug/netcoreapp3.1/DAL.dll
+/home/kot/RiderProjects/CookBoock/DAL/obj/Debug/netcoreapp3.1/DAL.pdb
