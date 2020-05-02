@@ -12,6 +12,6 @@ namespace DAL.Repository
         void RemoveAll();
         T Get(int id);
         IEnumerable<T> GetAll();
-        void Update(int id, T entity);
+        void UpdateWithoutId(T entity);
     }
 }

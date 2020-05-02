@@ -1,27 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac58fd53-6440-48e5-9f2a-5b8a02914ec0" name="Default Changelist" comment="" />
+    <list default="true" id="ac58fd53-6440-48e5-9f2a-5b8a02914ec0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CookBoock/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleDapperTestApp1/ConsoleDapperTestApp1.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleDapperTestApp1/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleDapperTestApp1/obj/ConsoleDapperTestApp1.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleDapperTestApp1/obj/ConsoleDapperTestApp1.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleDapperTestApp1/obj/ConsoleDapperTestApp1.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleDapperTestApp1/obj/Debug/netcoreapp3.1/ConsoleDapperTestApp1.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleDapperTestApp1/obj/Debug/netcoreapp3.1/ConsoleDapperTestApp1.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleDapperTestApp1/obj/Debug/netcoreapp3.1/ConsoleDapperTestApp1.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleDapperTestApp1/obj/Debug/netcoreapp3.1/ConsoleDapperTestApp1.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleDapperTestApp1/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleDapperTestApp1/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleDapperTestApp1/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAL/ApplicationContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAL/UoW/IUoW.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CookBoock/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CookBoock/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CookBoock/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CookBoock/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/DAL.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/DAL.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/Repository/IRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Repository/IRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/Repository/Repository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Repository/Repository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/UoW/UoW.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/UoW/UoW.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/obj/DAL.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/DAL.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/obj/Debug/netcoreapp3.1/DAL.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/Debug/netcoreapp3.1/DAL.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/PL/Models/Dish.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/PL/Models/Recipe.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/PL/Models/IBase.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/PL/Models/Ingredients.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DAL/Repository/IRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Models/IBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DAL/Repository/Repository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DAL/UoW/UoW.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DAL/Models/Recipe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DAL/Models/Ingredients.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DAL/Models/Dish.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PL/Models/Dish.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PL/Models/Recipe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PL/Models/IBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PL/Models/Ingredients.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/UoW/IUoW.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/ApplicationContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleDapperTestApp1/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BLL/Models/Dish.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BLL/Models/Recipe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BLL/Models/IBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BLL/Models/Ingredients.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PL/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -38,22 +73,32 @@
         <option value="$PROJECT_DIR$/BLL/Models/Recipe.cs" />
         <option value="$PROJECT_DIR$/DAL/Models/IBase.cs" />
         <option value="$PROJECT_DIR$/BLL/BLL.csproj" />
-        <option value="$PROJECT_DIR$/DAL/DAL.csproj" />
-        <option value="$PROJECT_DIR$/DAL/Repository/IRepository.cs" />
-        <option value="$PROJECT_DIR$/DAL/Repository/Repository.cs" />
-        <option value="$PROJECT_DIR$/DAL/UoW/UoW.cs" />
         <option value="$PROJECT_DIR$/DAL/Models/Recipe.cs" />
         <option value="$PROJECT_DIR$/DAL/Models/Ingredients.cs" />
         <option value="$PROJECT_DIR$/DAL/Models/Dish.cs" />
+        <option value="$PROJECT_DIR$/DAL/UoW/IUoW.cs" />
+        <option value="$PROJECT_DIR$/DAL/UoW/DapperUoW.cs" />
+        <option value="$PROJECT_DIR$/ConsoleDapperTestApp1/Program.cs" />
+        <option value="$PROJECT_DIR$/DAL/UoW/UoW.cs" />
+        <option value="$PROJECT_DIR$/DAL/DAL.csproj" />
+        <option value="$PROJECT_DIR$/DAL/ApplicationContext.cs" />
+        <option value="$PROJECT_DIR$/DAL/Repository/Repository.cs" />
+        <option value="$PROJECT_DIR$/DAL/Repository/IRepository.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1bLnzZEa5IUoDjmiH9SiWJMXlWT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -101,14 +146,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588420509426</updated>
-      <workItem from="1588420547550" duration="3810000" />
+      <workItem from="1588420547550" duration="10726000" />
     </task>
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="216" y="158" width="804" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588436262050">
+      <screen x="0" y="0" width="1280" height="987" />
+    </state>
+    <state x="216" y="158" width="804" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.987@0.0.1280.987" timestamp="1588436262050" />
     <state x="423" y="251" width="428" height="484" key="FileChooserDialogImpl" timestamp="1588430643177">
       <screen x="0" y="0" width="1280" height="987" />
     </state>
@@ -117,10 +167,14 @@
       <screen x="0" y="0" width="1280" height="987" />
     </state>
     <state x="505" y="393" key="Github.ShareDialog/0.0.1280.987@0.0.1280.987" timestamp="1588430844515" />
-    <state x="235" y="228" width="804" height="530" key="Rider.ProjectTemplateDialog.Size" timestamp="1588424504203">
+    <state x="431" y="181" width="412" height="625" key="Github.UntrackedFilesDialog" timestamp="1588430870330">
       <screen x="0" y="0" width="1280" height="987" />
     </state>
-    <state x="235" y="228" width="804" height="530" key="Rider.ProjectTemplateDialog.Size/0.0.1280.987@0.0.1280.987" timestamp="1588424504203" />
+    <state x="431" y="181" width="412" height="625" key="Github.UntrackedFilesDialog/0.0.1280.987@0.0.1280.987" timestamp="1588430870330" />
+    <state x="235" y="228" width="804" height="530" key="Rider.ProjectTemplateDialog.Size" timestamp="1588435274590">
+      <screen x="0" y="0" width="1280" height="987" />
+    </state>
+    <state x="235" y="228" width="804" height="530" key="Rider.ProjectTemplateDialog.Size/0.0.1280.987@0.0.1280.987" timestamp="1588435274590" />
     <state x="441" y="175" width="392" height="636" key="RiderGenerateDialog" timestamp="1588430588344">
       <screen x="0" y="0" width="1280" height="987" />
     </state>

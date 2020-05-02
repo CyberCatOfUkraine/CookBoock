@@ -3,6 +3,7 @@
   <component name="ContentModelStore">
     <e p="$USER_HOME$/.cache/JetBrains/Rider2020.1/extResources" t="IncludeRecursive" />
     <e p="$USER_HOME$/.cache/JetBrains/Rider2020.1/resharper-host/local/Transient/ReSharperHost/v201/SolutionCaches/_CookBoock.1769723310.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="BLL" t="IncludeRecursive">
         <e p="BLL.csproj" t="IncludeRecursive" />
@@ -28,6 +29,7 @@
       </e>
       <e p="CookBoock.sln" t="IncludeFlat" />
       <e p="DAL" t="IncludeRecursive">
+        <e p="ApplicationContext.cs" t="Include" />
         <e p="DAL.csproj" t="IncludeRecursive" />
         <e p="Models" t="Include">
           <e p="Dish.cs" t="Include" />
@@ -40,6 +42,7 @@
           <e p="Repository.cs" t="Include" />
         </e>
         <e p="UoW" t="Include">
+          <e p="IUoW.cs" t="Include" />
           <e p="UoW.cs" t="Include" />
         </e>
         <e p="bin" t="ExcludeRecursive" />
