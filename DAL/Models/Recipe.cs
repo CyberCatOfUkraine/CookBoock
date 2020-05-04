@@ -11,6 +11,5 @@ namespace DAL.Models
         public decimal CookingTime { get; set; }
         public string Description { get; set; }
         public List<Ingredients> Ingredients { get; set; }
-        
     }
 }

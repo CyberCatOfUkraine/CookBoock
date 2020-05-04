@@ -1,79 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ac58fd53-6440-48e5-9f2a-5b8a02914ec0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/ConsoleApp1.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/Models/Dish.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/Models/IBase.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/Models/Ingredients.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/Models/Recipe.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/DAL.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/DAL.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/MySqlConnector.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/Pomelo.JsonObject.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookBoock.sln.DotSettings.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAL/bin/Debug/netcoreapp3.1/DAL.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAL/bin/Debug/netcoreapp3.1/DAL.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAL/bin/Debug/netcoreapp3.1/DAL.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAL/obj/Debug/netcoreapp3.1/DAL.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAL/obj/Debug/netcoreapp3.1/DAL.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAL/obj/Debug/netcoreapp3.1/DAL.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAL/obj/Debug/netcoreapp3.1/DAL.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAL/obj/Debug/netcoreapp3.1/DAL.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BLL/obj/Debug/netcoreapp3.1/BLL.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CookBoock/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CookBoock/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CookBoock/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CookBoock/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL/Models/Dish.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/Models/Dish.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL/Models/IBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/Models/IBase.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL/Models/Ingredients.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/Models/Ingredients.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL/Models/Recipe.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/Models/Recipe.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/Models/Dish.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/Models/Dish.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/Models/Ingredients.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/Models/Ingredients.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/Models/Recipe.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/Models/Recipe.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CookBoock.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CookBoock.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/DAL.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/DAL.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CookBoock.sln.DotSettings.user" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DAL/Models/Dish.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Models/Dish.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/Models/IBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Models/IBase.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DAL/Models/Ingredients.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Models/Ingredients.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DAL/Models/Recipe.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Models/Recipe.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/obj/Debug/netcoreapp3.1/DAL.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/Debug/netcoreapp3.1/DAL.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PL/Models/Dish.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PL/Models/Dish.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PL/Models/IBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PL/Models/IBase.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PL/Models/Ingredients.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PL/Models/Ingredients.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PL/Models/Recipe.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PL/Models/Recipe.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PL/obj/Debug/netcoreapp3.1/PL.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PL/obj/Debug/netcoreapp3.1/PL.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,24 +61,25 @@
     <setting file="file://$PROJECT_DIR$/DAL/Repository/IRepository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ConsoleApp1/Models/Recipe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ConsoleApp1/Models/Ingredients.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ConsoleApp1/Models/Dish.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/PL/Models/Ingredients.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/PL/Models/IBase.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/PL/Models/Dish.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DAL/Repository/Repository.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/PL/Models/Recipe.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DAL/UoW/UoW.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DAL/Models/IBase.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DAL/Models/Recipe.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DAL/Models/Ingredients.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DAL/Models/Dish.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DAL/UoW/IUoW.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DAL/ApplicationContext.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BLL/Models/Dish.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BLL/Models/Recipe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/Models/Dish.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BLL/Models/IBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BLL/Models/Ingredients.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Models/Recipe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Repository/Repository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Models/Dish.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/UoW/UoW.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Models/IBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Models/Ingredients.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Models/Recipe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PL/Models/Recipe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PL/Models/Ingredients.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PL/Models/Dish.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PL/Models/IBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/UoW/IUoW.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/ApplicationContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PL/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PL/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -113,10 +87,6 @@
       <list>
         <option value="$PROJECT_DIR$/BLL/Class1.cs" />
         <option value="$PROJECT_DIR$/DAL/Class1.cs" />
-        <option value="$PROJECT_DIR$/BLL/Models/Dish.cs" />
-        <option value="$PROJECT_DIR$/BLL/Models/IBase.cs" />
-        <option value="$PROJECT_DIR$/BLL/Models/Ingredients.cs" />
-        <option value="$PROJECT_DIR$/BLL/Models/Recipe.cs" />
         <option value="$PROJECT_DIR$/BLL/BLL.csproj" />
         <option value="$PROJECT_DIR$/DAL/UoW/IUoW.cs" />
         <option value="$PROJECT_DIR$/DAL/UoW/DapperUoW.cs" />
@@ -126,19 +96,24 @@
         <option value="$PROJECT_DIR$/DAL/ApplicationContext.cs" />
         <option value="$PROJECT_DIR$/DAL/Repository/IRepository.cs" />
         <option value="$PROJECT_DIR$/DAL/Repository/Repository.cs" />
-        <option value="$PROJECT_DIR$/PL/Models/IBase.cs" />
-        <option value="$PROJECT_DIR$/PL/Models/Dish.cs" />
-        <option value="$PROJECT_DIR$/PL/Models/Ingredients.cs" />
-        <option value="$PROJECT_DIR$/PL/Models/Recipe.cs" />
-        <option value="$PROJECT_DIR$/ConsoleApp1/Program.cs" />
-        <option value="$PROJECT_DIR$/ConsoleApp1/Models/Dish.cs" />
         <option value="$PROJECT_DIR$/ConsoleApp1/Models/IBase.cs" />
-        <option value="$PROJECT_DIR$/ConsoleApp1/Models/Ingredients.cs" />
+        <option value="$PROJECT_DIR$/PL/Controllers/HomeController1.cs" />
         <option value="$PROJECT_DIR$/ConsoleApp1/Models/Recipe.cs" />
-        <option value="$PROJECT_DIR$/DAL/Models/Dish.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/Models/Ingredients.cs" />
+        <option value="$PROJECT_DIR$/BLL/Models/IBase.cs" />
+        <option value="$PROJECT_DIR$/BLL/Models/Dish.cs" />
+        <option value="$PROJECT_DIR$/BLL/Models/Recipe.cs" />
+        <option value="$PROJECT_DIR$/BLL/Models/Ingredients.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/Models/Dish.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/Program.cs" />
         <option value="$PROJECT_DIR$/DAL/Models/IBase.cs" />
+        <option value="$PROJECT_DIR$/DAL/Models/Dish.cs" />
         <option value="$PROJECT_DIR$/DAL/Models/Ingredients.cs" />
         <option value="$PROJECT_DIR$/DAL/Models/Recipe.cs" />
+        <option value="$PROJECT_DIR$/PL/Models/IBase.cs" />
+        <option value="$PROJECT_DIR$/PL/Models/Recipe.cs" />
+        <option value="$PROJECT_DIR$/PL/Models/Dish.cs" />
+        <option value="$PROJECT_DIR$/PL/Models/Ingredients.cs" />
       </list>
     </option>
   </component>
@@ -224,7 +199,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588420509426</updated>
-      <workItem from="1588420547550" duration="12884000" />
+      <workItem from="1588420547550" duration="13751000" />
+      <workItem from="1588537296152" duration="149000" />
+      <workItem from="1588537529616" duration="1197000" />
+      <workItem from="1588576703275" duration="573000" />
     </task>
     <task id="LOCAL-00001" summary="+ ef mysql">
       <created>1588442009464</created>
@@ -233,14 +211,34 @@
       <option name="project" value="LOCAL" />
       <updated>1588442009464</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dal test failure">
+      <created>1588445370578</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588445370579</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="+ ef mysql" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ ef mysql" />
+    <MESSAGE value="dal test failure" />
+    <option name="LAST_COMMIT_MESSAGE" value="dal test failure" />
   </component>
   <component name="WindowStateProjectService">
     <state x="216" y="158" width="951" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588443814889">
@@ -259,22 +257,22 @@
       <screen x="0" y="0" width="1280" height="987" />
     </state>
     <state x="431" y="181" width="412" height="625" key="Github.UntrackedFilesDialog/0.0.1280.987@0.0.1280.987" timestamp="1588430870330" />
-    <state width="1230" height="255" key="GridCell.Tab.0.bottom" timestamp="1588444022331">
+    <state width="1230" height="255" key="GridCell.Tab.0.bottom" timestamp="1588538725425">
       <screen x="0" y="0" width="1280" height="987" />
     </state>
-    <state width="1230" height="255" key="GridCell.Tab.0.bottom/0.0.1280.987@0.0.1280.987" timestamp="1588444022331" />
-    <state width="1230" height="255" key="GridCell.Tab.0.center" timestamp="1588444022330">
+    <state width="1230" height="255" key="GridCell.Tab.0.bottom/0.0.1280.987@0.0.1280.987" timestamp="1588538725425" />
+    <state width="1230" height="255" key="GridCell.Tab.0.center" timestamp="1588538725424">
       <screen x="0" y="0" width="1280" height="987" />
     </state>
-    <state width="1230" height="255" key="GridCell.Tab.0.center/0.0.1280.987@0.0.1280.987" timestamp="1588444022330" />
-    <state width="1230" height="255" key="GridCell.Tab.0.left" timestamp="1588444022329">
+    <state width="1230" height="255" key="GridCell.Tab.0.center/0.0.1280.987@0.0.1280.987" timestamp="1588538725424" />
+    <state width="1230" height="255" key="GridCell.Tab.0.left" timestamp="1588538725424">
       <screen x="0" y="0" width="1280" height="987" />
     </state>
-    <state width="1230" height="255" key="GridCell.Tab.0.left/0.0.1280.987@0.0.1280.987" timestamp="1588444022329" />
-    <state width="1230" height="255" key="GridCell.Tab.0.right" timestamp="1588444022331">
+    <state width="1230" height="255" key="GridCell.Tab.0.left/0.0.1280.987@0.0.1280.987" timestamp="1588538725424" />
+    <state width="1230" height="255" key="GridCell.Tab.0.right" timestamp="1588538725425">
       <screen x="0" y="0" width="1280" height="987" />
     </state>
-    <state width="1230" height="255" key="GridCell.Tab.0.right/0.0.1280.987@0.0.1280.987" timestamp="1588444022331" />
+    <state width="1230" height="255" key="GridCell.Tab.0.right/0.0.1280.987@0.0.1280.987" timestamp="1588538725425" />
     <state x="235" y="228" width="804" height="530" key="Rider.ProjectTemplateDialog.Size" timestamp="1588442094011">
       <screen x="0" y="0" width="1280" height="987" />
     </state>
@@ -283,9 +281,13 @@
       <screen x="0" y="0" width="1280" height="987" />
     </state>
     <state x="441" y="175" width="638" height="636" key="RiderGenerateDialog/0.0.1280.987@0.0.1280.987" timestamp="1588442136356" />
-    <state x="235" y="229" width="804" height="528" key="Vcs.Push.Dialog.v2" timestamp="1588442014161">
+    <state x="235" y="229" width="804" height="528" key="Vcs.Push.Dialog.v2" timestamp="1588445379159">
       <screen x="0" y="0" width="1280" height="987" />
     </state>
-    <state x="235" y="229" width="804" height="528" key="Vcs.Push.Dialog.v2/0.0.1280.987@0.0.1280.987" timestamp="1588442014161" />
+    <state x="235" y="229" width="804" height="528" key="Vcs.Push.Dialog.v2/0.0.1280.987@0.0.1280.987" timestamp="1588445379159" />
+    <state x="303" y="215" width="672" height="678" key="search.everywhere.popup" timestamp="1588538676081">
+      <screen x="0" y="0" width="1280" height="987" />
+    </state>
+    <state x="303" y="215" width="672" height="678" key="search.everywhere.popup/0.0.1280.987@0.0.1280.987" timestamp="1588538676081" />
   </component>
 </project>
