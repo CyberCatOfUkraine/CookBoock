@@ -8,6 +8,7 @@
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="BLL" t="IncludeRecursive">
         <e p="BLL.csproj" t="IncludeRecursive" />
+        <e p="DALMapper.cs" t="Include" />
         <e p="Models" t="Include">
           <e p="Dish.cs" t="Include" />
           <e p="IBase.cs" t="Include" />
@@ -15,9 +16,15 @@
           <e p="Recipe.cs" t="Include" />
         </e>
         <e p="PrimaryLogicComponents" t="Include">
-          <e p="Dish" t="Include" />
-          <e p="Ingredients" t="Include" />
-          <e p="Recipe" t="Include" />
+          <e p="Dish" t="Include">
+            <e p="Manager.cs" t="Include" />
+          </e>
+          <e p="Ingredients" t="Include">
+            <e p="Manager.cs" t="Include" />
+          </e>
+          <e p="Recipe" t="Include">
+            <e p="Manager.cs" t="Include" />
+          </e>
         </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">

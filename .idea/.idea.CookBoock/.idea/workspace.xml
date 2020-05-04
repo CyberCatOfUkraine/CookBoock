@@ -20,33 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac58fd53-6440-48e5-9f2a-5b8a02914ec0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BLL/obj/Debug/netcoreapp3.1/BLL.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BLL/DALMapper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BLL/PrimaryLogicComponents/Dish/Manager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BLL/PrimaryLogicComponents/Ingredients/Manager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BLL/PrimaryLogicComponents/Recipe/Manager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CookBoock/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CookBoock/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CookBoock/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CookBoock/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BLL/Models/Dish.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/Models/Dish.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BLL/Models/IBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/Models/IBase.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BLL/Models/Ingredients.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/Models/Ingredients.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BLL/Models/Recipe.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/Models/Recipe.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/Models/Dish.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/Models/Dish.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/Models/Ingredients.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/Models/Ingredients.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/Models/Recipe.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/Models/Recipe.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CookBoock.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CookBoock.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CookBoock.sln.DotSettings.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/Models/Dish.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Models/Dish.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/Models/Ingredients.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Models/Ingredients.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/Models/Recipe.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Models/Recipe.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/obj/Debug/netcoreapp3.1/DAL.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/Debug/netcoreapp3.1/DAL.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PL/Models/Dish.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PL/Models/Dish.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PL/Models/IBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PL/Models/IBase.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PL/Models/Ingredients.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PL/Models/Ingredients.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PL/Models/Recipe.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PL/Models/Recipe.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PL/obj/Debug/netcoreapp3.1/PL.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PL/obj/Debug/netcoreapp3.1/PL.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL/BLL.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/BLL.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL/obj/BLL.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/obj/BLL.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL/obj/Debug/netcoreapp3.1/BLL.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/obj/Debug/netcoreapp3.1/BLL.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL/obj/Debug/netcoreapp3.1/BLL.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/obj/Debug/netcoreapp3.1/BLL.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,8 +52,11 @@
     <setting file="file://$PROJECT_DIR$/BLL/Models/IBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BLL/Models/Ingredients.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BLL/Models/Recipe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/PrimaryLogicComponents/Dish/Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/PrimaryLogicComponents/Ingredients/Manager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DAL/Repository/Repository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DAL/Models/Dish.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/PrimaryLogicComponents/Recipe/Manager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DAL/UoW/UoW.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DAL/Models/IBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DAL/Models/Ingredients.cs" root0="FORCE_HIGHLIGHTING" />
@@ -76,6 +65,7 @@
     <setting file="file://$PROJECT_DIR$/PL/Models/Ingredients.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PL/Models/Dish.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PL/Models/IBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/DALMapper.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DAL/UoW/IUoW.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DAL/ApplicationContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs" root0="SKIP_HIGHLIGHTING" />
@@ -114,6 +104,11 @@
         <option value="$PROJECT_DIR$/PL/Models/Recipe.cs" />
         <option value="$PROJECT_DIR$/PL/Models/Dish.cs" />
         <option value="$PROJECT_DIR$/PL/Models/Ingredients.cs" />
+        <option value="$PROJECT_DIR$/BLL/PrimaryLogicComponents/Ingredients/Manager.cs" />
+        <option value="$PROJECT_DIR$/BLL/PrimaryLogicComponents/Recipe/Manager.cs" />
+        <option value="$PROJECT_DIR$/BLL/PrimaryLogicComponents/Dish/Manager.cs" />
+        <option value="$PROJECT_DIR$/BLL/Mapper.cs" />
+        <option value="$PROJECT_DIR$/BLL/DALMapper.cs" />
       </list>
     </option>
   </component>
@@ -202,7 +197,7 @@
       <workItem from="1588420547550" duration="13751000" />
       <workItem from="1588537296152" duration="149000" />
       <workItem from="1588537529616" duration="1197000" />
-      <workItem from="1588576703275" duration="573000" />
+      <workItem from="1588576703275" duration="3853000" />
     </task>
     <task id="LOCAL-00001" summary="+ ef mysql">
       <created>1588442009464</created>
@@ -218,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588445370579</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Types upgrade">
+      <created>1588577465228</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588577465228</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -238,7 +240,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="+ ef mysql" />
     <MESSAGE value="dal test failure" />
-    <option name="LAST_COMMIT_MESSAGE" value="dal test failure" />
+    <MESSAGE value="Types upgrade" />
+    <option name="LAST_COMMIT_MESSAGE" value="Types upgrade" />
   </component>
   <component name="WindowStateProjectService">
     <state x="216" y="158" width="951" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588443814889">
@@ -281,13 +284,13 @@
       <screen x="0" y="0" width="1280" height="987" />
     </state>
     <state x="441" y="175" width="638" height="636" key="RiderGenerateDialog/0.0.1280.987@0.0.1280.987" timestamp="1588442136356" />
-    <state x="235" y="229" width="804" height="528" key="Vcs.Push.Dialog.v2" timestamp="1588445379159">
+    <state x="235" y="229" width="804" height="528" key="Vcs.Push.Dialog.v2" timestamp="1588577467424">
       <screen x="0" y="0" width="1280" height="987" />
     </state>
-    <state x="235" y="229" width="804" height="528" key="Vcs.Push.Dialog.v2/0.0.1280.987@0.0.1280.987" timestamp="1588445379159" />
-    <state x="303" y="215" width="672" height="678" key="search.everywhere.popup" timestamp="1588538676081">
+    <state x="235" y="229" width="804" height="528" key="Vcs.Push.Dialog.v2/0.0.1280.987@0.0.1280.987" timestamp="1588577467424" />
+    <state x="303" y="215" width="672" height="678" key="search.everywhere.popup" timestamp="1588580591976">
       <screen x="0" y="0" width="1280" height="987" />
     </state>
-    <state x="303" y="215" width="672" height="678" key="search.everywhere.popup/0.0.1280.987@0.0.1280.987" timestamp="1588538676081" />
+    <state x="303" y="215" width="672" height="678" key="search.everywhere.popup/0.0.1280.987@0.0.1280.987" timestamp="1588580591976" />
   </component>
 </project>
