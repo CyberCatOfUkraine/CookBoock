@@ -1,7 +1,9 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 using DAL.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace DAL.Repository
 {
@@ -9,25 +11,21 @@ namespace DAL.Repository
     {
         // ReSharper disable once FieldCanBeMadeReadOnly.Local
         private ApplicationContext _context=new ApplicationContext();
-        public void Add(T entity)
+        public async void Add(T entity)
         {
-            _context.Set<T>().Add(entity);
-            _context.SaveChanges();
+            await _context.Set<T>().AddAsync(entity);
+            await _context.SaveChangesAsync();
         }
 
-        public void AddGroup(IEnumerable<T> listOfEntities)
+        public async void AddGroup(IEnumerable<T> listOfEntities)
         {
-            foreach (var entity in listOfEntities)
-            {
-                _context.Set<T>().Add(entity);
-            }
-
-            _context.SaveChanges();
+               await _context.Set<T>().AddRangeAsync(listOfEntities);
+               await _context.SaveChangesAsync();
         }
 
         public void Remove(int id)
         {
-            _context.Set<T>().Remove(Get(id));
+            _context.Set<T>().Remove(Get(id).Result);
         }
 
         public void RemoveAll()
@@ -35,9 +33,9 @@ namespace DAL.Repository
             _context.Set<T>().RemoveRange(GetAll());
         }
 
-        public T Get(int id)
+        public async Task<T> Get(int id)
         {
-           return _context.Set<T>().FirstOrDefault(x => x.Id == id);
+           return await _context.Set<T>().FirstOrDefaultAsync(x => x.Id == id);
         }
 
         public IEnumerable<T> GetAll()

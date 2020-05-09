@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 using DAL.Models;
 
 namespace DAL.Repository
@@ -10,7 +11,7 @@ namespace DAL.Repository
         void AddGroup(IEnumerable<T> listOfEntities);
         void Remove(int id);
         void RemoveAll();
-        T Get(int id);
+        Task<T> Get(int id);
         IEnumerable<T> GetAll();
         void UpdateWithoutId(T entity);
     }
